@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Engineer;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=bf002a&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=bf002a&vCenter=true&size=22"></a>
 </p>
 
 <br>
